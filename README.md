@@ -9,7 +9,7 @@
 5.Git
 
 ## Build Instructions
-  Open the github link https://github.com/vishnuprasadmaruthi/WT
+  Open the github link https://github.com/vishnuprasadmaruthi/Welltok
   
   Open Spring Tool Suite and run the project
   
